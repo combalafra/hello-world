@@ -8,3 +8,6 @@ This is the first thing added in my first branch
 
 ## Second paragraph
 This is a second update, this was not really finished !
+
+## Fourth paragraph
+This time a mere will be done
